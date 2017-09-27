@@ -1,0 +1,4 @@
+# spring-cloud-config-
+info:
+  profile: dev
+  from: git
