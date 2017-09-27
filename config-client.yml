@@ -1,0 +1,9 @@
+# spring-cloud-config-
+info:
+
+  profile: default
+
+  from: git1
+
+  
+test: bb
